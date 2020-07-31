@@ -1,2 +1,2 @@
-# sql-server
+# SQL
 consultas
