@@ -1,2 +1,2 @@
 # SQL
-consultas
+query, procedures, etc
